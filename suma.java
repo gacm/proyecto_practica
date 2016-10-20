@@ -4,16 +4,16 @@ package parte_logica;
 
 public class suma {
     
-   int numero_uno=0, numero_dos=0,resultado=0;
+   int numero1=0, numero2=0,resultado=0;
 
 public void getnumerouno(int numero){
- this.numero_uno= numero;
+ this.numero1= numero;
 }
 
 public void getnumerouno(int numero){
- this.numero_uno= numero;
+ this.numero1= numero;
 }
 public int resultado(){
 
-this.resultado=numero_uno+numero_dos;}
+this.resultado=numero1+numero2;}
 }
