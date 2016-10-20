@@ -13,5 +13,7 @@ public void getnumerouno(int numero){
 public void getnumerouno(int numero){
  this.numero_uno= numero;
 }
+public int resultado(){
 
+this.resultado=numero_uno+numero_dos;}
 }
